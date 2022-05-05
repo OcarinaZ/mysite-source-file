@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Hidden Markov Model on Beiming&#39;s World</title>
+        <link>https://ocarinaz.github.io/tags/hidden-markov-model/</link>
+        <description>Recent content in Hidden Markov Model on Beiming&#39;s World</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ocarinaz.github.io/tags/hidden-markov-model/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Stock Price Prediction Based On Hidden Markov Model</title>
+        <link>https://ocarinaz.github.io/p/diploma1st/</link>
+        <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://ocarinaz.github.io/p/diploma1st/</guid>
+        <description>&lt;img src="https://ocarinaz.github.io/p/diploma1st/Cover.jpg" alt="Featured image of post Stock Price Prediction Based On Hidden Markov Model" /&gt;&lt;p&gt;Recently, Hidden Markov Model (HMM) has achieved certain application and development in stock market price and trend prediction. Existing HMM-based price prediction methods mainly predict the closing price of the next day by either (1) likelihood: finding price sequences in historical data which have similar pattern with current data; (2) MAP: discretizing the range of observable variable to form thousands of alternatives, from which the one with highest MAP will be selected as price prediction. The two approaches above face the problems of excessive computational costs or lacking double-check of posterior probability, where still remains possibility of optimization. Thus, this article put forward two new methods of price prediction, namely, likelihood-MAP approach and likelihood-posterior-probability-weighted approach, based on the analysis of traditional likelihood and MAP approaches, aiming at improving prediction accuracy as well as reducing computational burden in time. These two new methods correspond to two different optimization approaches, namely (1) completing a MAP double-check using alternatives (normally only dozens) drawn from likelihood method to obtain the prediction (likelihood-MAP approach); (2) using posterior probability as the weight of alternatives to get a weighted price as prediction.&lt;/p&gt;
+&lt;p&gt;As for empirical aspect, the research has used CSI 300 Index as data source to construct 105 technical factor groups as the observable variables of HMM, with different window length and different prediction length have also been taken into consideration as robustness test of the new prediction approaches. The empirical results show that the new approaches in this article have better performances than traditional ones, which is in accordance with the expectations of this research, and may be able to provide references for further trading strategy construction.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Sparse Portfolio on Beiming&#39;s World</title>
+        <link>https://ocarinaz.github.io/tags/sparse-portfolio/</link>
+        <description>Recent content in Sparse Portfolio on Beiming&#39;s World</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ocarinaz.github.io/tags/sparse-portfolio/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Partial Index Tracking Using Sparse Optimization</title>
+        <link>https://ocarinaz.github.io/p/orie5370/</link>
+        <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://ocarinaz.github.io/p/orie5370/</guid>
+        <description>&lt;img src="https://ocarinaz.github.io/p/orie5370/Cover.jpeg" alt="Featured image of post Partial Index Tracking Using Sparse Optimization" /&gt;&lt;p&gt;The project is aiming at using sparse l1 &amp;amp; l0 constraints on Markowitz portfolio theory to generate SP500 tracking portfolio with sparsity.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
